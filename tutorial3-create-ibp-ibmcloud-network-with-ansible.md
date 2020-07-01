@@ -88,9 +88,14 @@ Having successfully upgraded the Commercial Paper smart contract ( on the'Commer
 1. You need to have completed the previous two tutorials in this series.
 2. Specifically, you will have version 0.0.2 of the commercial paper smart contract package `papercontract` package available under the `Smart Contracts` view in the IBM Blockchain Platform VS Code extension.
 
+## Estimated time
+
+After the prerequisites are installed, this tutorial should take approximately 45 minutes to complete.
 
 ## Tutorial Steps
 
 To complete the tutorial steps - open the following MD file in a new browser tab and follow the instructions provided there.
 
 https://github.com/mahoney1/commercialpaper/blob/master/tutorial3-create-ibp-ibmcloud-network-with-ansible.md
+
+You can also peruse the README in that Github repo for more information on the tutorial series [here](https://github.com/mahoney1/commercialpaper/blob/master/README.md)
