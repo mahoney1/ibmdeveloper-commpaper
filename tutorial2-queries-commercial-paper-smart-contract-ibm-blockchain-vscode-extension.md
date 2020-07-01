@@ -102,3 +102,9 @@ Completion of these prerequisites is required to start this tutorial. Next, you'
 ## Estimated time
 
 Once the prerequisites are completed, this tutorial should take approximately 45-60 minutes to complete.
+
+## Tutorial Steps
+
+To complete the tutorial steps - open the following MD file in a new browser tab and follow the instructions provided there.
+
+https://github.com/mahoney1/commercialpaper/blob/master/tutorial2-queries-commercial-paper-smart-contract-ibm-blockchain-vscode-extension.md
