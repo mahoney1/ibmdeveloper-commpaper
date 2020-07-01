@@ -104,5 +104,12 @@ After the prerequisites are installed, this tutorial should take approximately 4
 
 To complete the steps for this tutorial [follow the tutorial steps here](https://github.com/mahoney1/commercialpaper/blob/master/tutorial1-run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension.md)
 
-You can also peruse the README in that Github repo for more information on the tutorial series [here](https://github.com/mahoney1/commercialpaper/blob/master/README.md)
 
+## Tutorial Steps
+
+To complete the tutorial steps - open the following MD file in a new browser tab and follow the instructions provided there.
+
+https://github.com/mahoney1/commercialpaper/blob/master/tutorial1-run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension.md
+
+
+You can also peruse the README in that Github repo for more information on the tutorial series [here](https://github.com/mahoney1/commercialpaper/blob/master/README.md)
