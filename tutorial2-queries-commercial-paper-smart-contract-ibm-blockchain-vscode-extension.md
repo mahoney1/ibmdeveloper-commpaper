@@ -10,7 +10,7 @@ authors:
 
 # collections:		# Required=false
 
-completed_date:	"2020-06-21"
+completed_date:	"2020-06-30"
 
 components:
   - "hyperledger-fabric"
@@ -21,7 +21,7 @@ draft: true
 
 excerpt: "Add query functionality to a commercial paper smart contract with the IBM Blockchain VS Code extension, and render a full asset history in a browser-based UI application."
 
-last_updated:	"2020-06-21"
+last_updated:	"2020-06-30"
 
 meta_description: "Learn how to add query functionality to a commercial paper smart contract with the IBM Blockchain VS Code extension and then execute the queries from a client application, rendering them in Tabulator."
 
